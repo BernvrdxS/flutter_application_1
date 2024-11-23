@@ -1,16 +1,15 @@
-# flutter_application_1
+# Objetivo do Aplicativo
 
-A new Flutter project.
+O Checkpoints é um aplicativo para gerenciar e acompanhar suas metas. 
 
-## Getting Started
+Ele permite ao usuário criar metas com título, descrição e status (Em Progresso, Concluída ou Em Atraso), visualizando seu andamento de forma simples. 
 
-This project is a starting point for a Flutter application.
+Também é possível excluir metas quando necessário.
 
-A few resources to get you started if this is your first Flutter project:
+## Apresentação do Aplicativo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+O Checkpoints ajuda você a organizar suas metas de forma eficiente e visual. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Com uma interface simples, o aplicativo permite adicionar metas, acompanhar seu status (Em Progresso, Concluída ou Em Atraso) e excluir metas quando concluídas ou não necessárias. 
+
+Ideal para quem deseja manter o foco e monitorar o progresso das suas tarefas.
