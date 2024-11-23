@@ -1,0 +1,4 @@
+lib/
+  |- home_screen.dart
+  |- add_goal_screen.dart
+  |- main.dart
